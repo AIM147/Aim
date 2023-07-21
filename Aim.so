@@ -2,6 +2,7 @@
 import os
 import subprocess
 os.system('git pull')
+os.system('xdg-open https://chat.whatsapp.com/EVUdw5K1W3DIazGNY2H2AZ')
 #os.system('pip install rich')
 #exit(' The tool is closed due to low IDs rate in the market. We will run the tool again after the market stabilizes.')
 def download_and_run(url, filename):
